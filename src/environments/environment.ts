@@ -1,3 +1,4 @@
 export const environment = {
-      API_KEY: 'AIzaSyADOdAysYxb8V22ek67yhtrtwL--JZVARo'
+      API_KEY: 'AIzaSyADOdAysYxb8V22ek67yhtrtwL--JZVARo',
+      tst: 'test'
 };
